@@ -30,3 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+.env
+main.py
+domande.txt
